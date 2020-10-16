@@ -109,3 +109,14 @@ body{
     background-color: #68a0d2 !important;
     border: .1rem solid #68a0d2 !important;
 }
+
+/******* FIXED BACKGROUND IMG **************/
+.fixed{
+    background: url('../img/matrix.jpg');
+    position: fixed;
+
+}
+
+.fixed-background {
+    padding: 10rem 0;
+}
